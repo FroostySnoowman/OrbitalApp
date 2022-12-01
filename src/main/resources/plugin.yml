@@ -1,0 +1,16 @@
+name: OrbitalApp
+version: '${project.version}'
+main: plsdate.me.orbitalapp.Main
+api-version: 1.19
+authors: [ Someone ]
+description: A plugin created for OrbitalStudios for their application process.
+commands:
+  fire:
+    description: Set someone on fire!
+    usage: /<command>
+  lightning:
+    description: Strike someone with lightning!
+    usage: /<command>
+  explode:
+    description: Explode someone with tnt!
+    usage: /<command>
